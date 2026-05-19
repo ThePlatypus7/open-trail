@@ -9,6 +9,7 @@ __autosave-*
 *.net
 *.tmp
 *.bak
+*.history
 
 .DS_Store
 Thumbs.db
