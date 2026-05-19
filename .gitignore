@@ -6,6 +6,8 @@ firmware/target
 __autosave-*
 *.kicad_prl
 
+hardware/kicad/fabrication
+
 *.net
 *.tmp
 *.bak
