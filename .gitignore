@@ -1,1 +1,15 @@
-/target
+# Rust
+firmware/target
+
+# KiCad
+*-backups/
+__autosave-*
+*.kicad_prl
+
+*.net
+*.tmp
+*.bak
+
+.DS_Store
+Thumbs.db
+
